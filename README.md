@@ -1,4 +1,4 @@
-````markdown
+
 # Análise e Segmentação de Imagens com Python
 
 Este script realiza várias tarefas de processamento de imagens usando bibliotecas Python, como `pandas`, `seaborn`, `matplotlib`, `cv2` e `sklearn`. As etapas incluem a leitura de dados, plotagem da distribuição de tags, carregamento e exibição de imagens, normalização de imagens para t-SNE e segmentação de imagens usando a clusterização K-Means.
@@ -21,7 +21,7 @@ Instale-as usando pip se ainda não tiver instalado:
 ```bash
 pip install pandas seaborn matplotlib opencv-python tqdm scikit-learn
 ```
-````
+
 
 ## Carregamento de Dados e Plotagem da Distribuição de Tags
 
