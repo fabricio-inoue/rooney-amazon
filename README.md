@@ -1,5 +1,3 @@
-Aqui está o arquivo markdown para o código fornecido, traduzido para o português:
-
 ````markdown
 # Análise e Segmentação de Imagens com Python
 
